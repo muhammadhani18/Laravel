@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
 <head>
-<title>Hello World</title>
+<title>Ahsan bhai</title>
 </head>
 <body>
-<h1> Hello World</h1>
+<h1> Ahsan bhai zindabad</h1>
 </body>
 </html>
